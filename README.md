@@ -1,4 +1,4 @@
-# Ark Explorer 3.0
+# Qredit Explorer 3.0
 
 <p align="center">
     <img src="/ARKExplorer.png" />
@@ -6,20 +6,20 @@
 
 > Designed and developed from the ground-up, using lean & fast developmental frameworks (Tailwind CSS & Vue.JS).
 
-[![Build Status](https://badgen.now.sh/github/status/ArkEcosystem/Explorer/develop)](https://github.com/ArkEcosystem/explorer/actions?query=branch%3Adevelop)
+[![Build Status](https://badgen.now.sh/github/status/qredit/Explorer/develop)](https://github.com/ArkEcosystem/explorer/actions?query=branch%3Adevelop)
 [![Codecov](https://badgen.now.sh/codecov/c/github/arkecosystem/explorer)](https://codecov.io/gh/arkecosystem/explorer)
 [![License: MIT](https://badgen.now.sh/badge/license/MIT/green)](https://opensource.org/licenses/MIT)
 
 > Lead Maintainer: [Michel Kraaijeveld](https://github.com/ItsANameToo)
 
-You can access it at [https://explorer.ark.io/](https://explorer.ark.io/).
+You can access it at [https://explorer.qredit.io/](https://explorer.ark.io/).
 
 ## Build Setup
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ArkEcosystem/explorer
+git clone https://github.com/qredit/explorer
 ```
 
 ### 2. Install Dependencies
@@ -111,13 +111,6 @@ yarn serve --env.routerMode=history
 ```bash
 $ yarn test
 ```
-
-## Contributing
-
-- If you find any bugs, submit an [issue](../../issues) or open a [pull-request](../../pulls), helping us catch and fix them.
-- Engage with other users and developers on the [ArkEcosystem Slack](https://ark.io/slack/).
-- Join our [gitter](https://gitter.im/ark-developers/Lobby).
-- [Contribute bounties](https://github.com/ArkEcosystem/bounty-program).
 
 ## Security
 
